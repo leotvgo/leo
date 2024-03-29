@@ -25,18 +25,16 @@
 	"changeable": 0,
 	"ext":"./lib/tokenm.json"
     },
-   {
-      "key": "云盘登录",
+    {
+      "key": "配置中心",
       "name": "阿里tonken配置",
       "type": 3,
-      "api": "csp_AliYunPan",
+      "api": "csp_Config",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
       "changeable": 0,
       "jar": "./spider.jar",
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
+      },
    {
       "key":"Local",
       "name":"LEO｜本地",
