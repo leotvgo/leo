@@ -17,25 +17,34 @@
       "ext": "./lib/douban.json"
     },
     {
-	"key": "网盘配置1",
-	"name": "网盘配置登录",
+	"key": "网盘配置",
+	"name": "PG网盘配置",
 	"type": 3,
 	"api": "csp_Config",
 	"searchable": 0,
 	"changeable": 0,
-	"ext":"./lib/tokenm.json$$$http://127.0.0.1:9978/file/TVBox/token.txt"
+	"ext":"./lib/tokenm.json"
     },
     {
-      "key": "云盘登录",
-      "name": "阿里tonken配置",
-      "type": 3,
-      "api": "csp_AliYunPan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
+	"key":"云盘登录",
+	"name":"LEO云盘登录",
+	"type":3,
+	"api":"csp_AliYunPan",
+	"searchable":0,
+	"quickSearch":0,
+	"filterable":0,
+	"changeable":0,
+	"jar": "./spider.jar",
+	"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+    {
+	"key":"配置中心",
+	"name":"LEO配置中心",
+	"type":3,
+	"api":"csp_Config",
+	"searchable":0,
+	"changeable":0,
+	"jar": "./spider.jar",
+	"style":{"type":"rect","ratio":1.597},"jar":"./danmu.jar;md5;6e9cbfda7a63652a4eda744104f4a968"},
    {
       "key":"Local",
       "name":"LEO｜本地",
@@ -105,18 +114,6 @@
 		"ratio": 1.1
 		}
     },
-    {
-       "key": "白嫖",
-       "name": "LEO┃白嫖饭",
-       "type": 3,
-       "api": "csp_BaiPiao",
-       "playerType": 2,
-       "searchable": 1,
-       "quickSearch": 1,
-       "changeable": 1,
-       "ext": "https://www.baipiaoys.com/",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296"
-    },
    {
        "key": "酷看",
        "name": "LEO┃秒播",
@@ -137,14 +134,6 @@
 	"changeable": 1,
 	"ext": "null$$$1"
 		},
-   {
-	"key": "天天",
-	"name": "LEO┃天天",
-	"type": 3,
-	"api": "csp_TTian",
-	"playerType": 1,
-	"ext": "http://op.ysdqjs.cn$$$null$$$1"
-   },
    {
 	"key":"bili",
 	"name":"LEO |B站",
@@ -352,6 +341,17 @@
       "filterable": 0, 
       "timeout":30, 
       "ext":"./lib/tokenm.json" },
+   {
+      "key":"小纸条弹幕",
+      "name":"LEO｜小纸条DM",
+      "type":3,
+      "api":"csp_XiaoZhiTiao",
+      "searchable":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "./spider.jar",
+      "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},
+      "jar":"./danmu.jar;md5;6e9cbfda7a63652a4eda744104f4a968"},
    {
       "key": "云盘搜索",
       "name": "LEO｜搜索",
