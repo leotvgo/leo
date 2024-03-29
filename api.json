@@ -342,17 +342,6 @@
       "timeout":30, 
       "ext":"./lib/tokenm.json" },
    {
-      "key":"小纸条弹幕",
-      "name":"LEO｜小纸条DM",
-      "type":3,
-      "api":"csp_XiaoZhiTiao",
-      "searchable":1,
-      "filterable":1,
-      "changeable":1,
-      "jar": "./spider.jar",
-      "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},
-      "jar":"./danmu.jar;md5;6e9cbfda7a63652a4eda744104f4a968"},
-   {
       "key": "云盘搜索",
       "name": "LEO｜搜索",
       "type": 3,
