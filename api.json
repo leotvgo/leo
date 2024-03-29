@@ -17,13 +17,13 @@
       "ext": "./lib/douban.json"
     },
     {
-	"key": "网盘配置",
+	"key": "网盘配置1",
 	"name": "网盘配置登录",
 	"type": 3,
 	"api": "csp_Config",
 	"searchable": 0,
 	"changeable": 0,
-	"ext":"./lib/tokenm.json"
+	"ext":"./lib/tokenm.json$$$http://127.0.0.1:9978/file/TVBox/token.txt"
     },
     {
       "key": "云盘登录",
