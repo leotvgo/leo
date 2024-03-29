@@ -104,7 +104,7 @@
        "quickSearch": 1,
        "changeable": 1,
        "ext": "https://www.baipiaoys.com/",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt"
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296"
     },
    {
        "key": "酷看",
@@ -115,7 +115,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "changeable": 1,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt"
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296"
     },
     {
 	"key": "NanGua",
@@ -638,8 +638,7 @@
       "type": 3,
       "api": "csp_Iktv",
       "searchable": 1,
-      "changeable": 0,
-      "jar": "https://gitlab.com/leo3975408/duo/-/raw/main/fnyt.jar"
+      "changeable": 0
     },
     {
       "key": "Yinyuetai",
@@ -696,7 +695,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
+      "jar": "./spider.jar",
       "ext":"./json/初中课堂.json"},
     {
       "key": "高中课堂",
@@ -706,7 +705,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
+      "jar": "./spider.jar",
       "ext":"./json/高中课堂.json"},
     {
       "key":"LEO",
