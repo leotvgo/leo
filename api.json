@@ -416,17 +416,6 @@
       "jar": "./spider.jar",
       "ext": "./json/豆豆飞搜索.json"
     },
-    {
-      "key": "Zhaozy",
-      "name": "LEO｜找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./spider.jar",
-      "ext": "{\"username\":\"Pizazz\",\"password\":\"xiaosage\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
-    },
    {
       "key":"Funletu",
       "name":"LEO|趣盘搜",
