@@ -297,20 +297,6 @@
       "timeout":60, 
       "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
    {
-      "key":"Xpanpan",
-      "name":"LEO|小盘盘",
-      "type":3,
-      "api":"csp_Xpanpan",
-      "quickSearch":1, 
-      "changeable":1, 
-      "filterable":1,
-      "timeout":60, 
-      "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1",
-	"style": {
-		"type": "list",
-		"ratio": 1.1}
-		},
-   {
       "key":"影视车",
       "name":"LEO|影视车",
       "type":3,
@@ -341,28 +327,6 @@
       "filterable": 0, 
       "timeout":30, 
       "ext":"./lib/tokenm.json" },
-   {
-      "key": "云盘搜索",
-      "name": "LEO｜搜索",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./spider.jar",
-      "ext": "./json/云盘搜索.json"
-    },
-   {
-      "key": "Upyunso",
-      "name": "LEO｜云搜",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./spider.jar",
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
    {
      "key":"易搜",
      "name":"LEO|易搜",
@@ -451,17 +415,6 @@
       "filterable": 1,
       "jar": "./spider.jar",
       "ext": "./json/豆豆飞搜索.json"
-    },
-    {
-      "key": "阿里云盘网",
-      "name": "LEO｜云盘网",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./spider.jar",
-      "ext": "./json/阿里云盘网.json"
     },
     {
       "key": "Zhaozy",
