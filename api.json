@@ -317,6 +317,18 @@
       "timeout":30, 
       "ext":"./lib/tokenm.json" },
    {
+      "key": "云盘搜索",
+      "name": "LEO｜搜索",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./spider.jar",
+      "ext": "./lib/云盘搜索.json"
+    },
+
+   {
       "key":"Gitcafe", 
       "name": "LEO|小纸条", 
       "type": 3, 
@@ -327,6 +339,28 @@
       "filterable": 0, 
       "timeout":30, 
       "ext":"./lib/tokenm.json" },
+   {
+      "key": "阿里云盘网",
+      "name": "LEO｜云盘网",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./spider.jar",
+      "ext": "./lib/阿里云盘网.json"
+    },
+   {
+      "key": "Zhaozy",
+      "name": "LEO｜找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./spider.jar",
+      "ext": "{\"username\":\"Pizazz\",\"password\":\"xiaosage\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
+    },
    {
      "key":"易搜",
      "name":"LEO|易搜",
