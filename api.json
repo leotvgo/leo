@@ -34,7 +34,7 @@
       "filterable": 0,
       "changeable": 0,
       "jar": "./Token.jar",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://127.0.0.1:9978/file/TVBox/tok.txt$$$http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$"
     },
    {
       "key":"Local",
