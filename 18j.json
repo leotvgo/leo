@@ -143,8 +143,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
-      "timeout": 60,
-      "ext":"socks5://127.0.0.1:10072"
+      "timeout": 60
     },
     {
       "key": "PushShareHD",
@@ -350,7 +349,6 @@
       "type": 3,
       "api": "csp_Doll",
       "searchable": 1,
-      "ext":"socks5://127.0.0.1:10072",
       "style": {
         "type": "rect",
         "ratio": 1.309
@@ -590,8 +588,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext":"socks5://127.0.0.1:10072"
+      "changeable": 0
     },
     {
       "key": "csp_JavDb",
@@ -638,7 +635,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pikpakclass.a1.json$$$http://akun.work.gd/upload/lib/pikpakclass.a1.json.txt.gz$$$socks5://127.0.0.1:10072"
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pikpakclass.a1.json$$$http://akun.work.gd/upload/lib/pikpakclass.a1.json.txt.gz"
     },
     {
       "key": "博明",
