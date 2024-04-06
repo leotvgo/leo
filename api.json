@@ -245,6 +245,8 @@
       "name":"LEO|秒搜",
       "type":3,
       "api":"csp_MiaoSou",
+      "searchable": 1,
+      "changeable": 1,
       "timeout":30,
       "ext":"./lib/tokenm.json"},
    {
