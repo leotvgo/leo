@@ -210,13 +210,18 @@
       "filterable":1,
       "jar":"http://ythz.lyyytv.cn/uploads/tvbox/yt.jar",
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"},
-    { 
+    {
       "key":"88Pan",
-      "name":"LEO|88网盘",
+      "name":"LEO｜88网盘",
       "type":3,
       "api":"csp_EightEight",
-      "timeout":30,
-      "ext":"./lib/tokenm.json$$$https://662688.xyz"},
+      "timeout":60, 
+      "ext":"./lib/tokenm.json$$$https://662688.xyz$$$",
+	"style": {
+		"type": "list",
+		"ratio": 1.1
+	}
+     },
     {
       "key":"盘搜",
       "name":"LEO|盘搜",
@@ -253,13 +258,13 @@
    {
       "key":"Wogg",
       "name":"LEO|玩偶哥哥",
-      "type":3,"api":
-      "csp_Wogg",
+      "type":3,
+      "api":"csp_Wogg",
       "quickSearch":1, 
       "changeable":1, 
       "filterable":1, 
       "timeout":60, 
-      "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
+      "ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"},
 		{
       "key":"Wobg",
       "name":"LEO|玩偶表哥",
@@ -269,7 +274,7 @@
       "changeable":1, 
       "filterable":1, 
       "timeout":60, 
-      "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
+      "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
    {
       "key":"yydsys",
       "name":"LEO|玩你老哥",
@@ -279,7 +284,7 @@
       "changeable":1, 
       "filterable":1, 
       "timeout":60, 
-      "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"},
+      "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
    {
       "key":"Xinshijue",
       "name":"LEO|新视觉",
@@ -309,7 +314,7 @@
       "changeable":1, 
       "filterable":1, 
       "timeout":60,
-      "ext":"./lib/tokenm.json$$$null$$$1"},
+      "ext":"./lib/tokenm.json$$$proxy$$$1"},
    {
 	  "key":"搜索弹幕",
 	   "name":"LEO｜搜索DM",
@@ -539,7 +544,7 @@
      "changeable":1, 
      "filterable":1, 
      "timeout":60, 
-     "ext":"./lib/tokenm.json$$$https://dapanso.com$$$null$$$1"},
+     "ext":"./lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"},
   {
      "key":"drpy_js_愛盤搜",
      "name":"爱盘搜[js]|夸",
@@ -598,7 +603,7 @@
       "changeable":1, 
       "filterable":1, 
       "timeout":60, 
-      "ext":"./lib/tokenm.json$$$1"},
+      "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
   {
       "key":"Pan99",
       "name":"LEO|盘99",
@@ -615,7 +620,7 @@
      "type":3,
      "api":"csp_Panyq",
      "timeout":60, 
-     "ext":"./lib/tokenm.json"},
+     "ext":"./lib/tokenm.json$$$site$$$proxy"},
    {
       "key":"YingSo",
       "name":"LEO|影搜",
@@ -632,7 +637,7 @@
      "changeable":1, 
      "filterable":1, 
      "timeout":60, 
-     "ext":"./lib/tokenm.json$$$null$$$1"},
+     "ext":"./lib/tokenm.json$$$proxy$$$1"},
   {
       "key":"Ppxzy",
       "name":"LEO|皮皮虾",
@@ -642,7 +647,7 @@
       "changeable":1, 
       "filterable":1, 
       "timeout":60, 
-      "ext":"./lib/tokenm.json$$$http://ppxzy.ink$$$null$$$1"},
+      "ext":"./lib/tokenm.json$$$https://ppxzy.net$$$proxy$$$1"},
    {
      "key":"Bt0",
      "name":"LEO|不太灵",
