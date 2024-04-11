@@ -9,7 +9,7 @@
 "oauth_refresh_url":"",
 "thread_limit":32,
 "is_vip":true,
-"vip_thread_limit":32,
+"vip_thread_limit":10,
 "vod_flags":"4kz|auto",
 "quark_thread_limit":32,
 "quark_is_vip":false,
@@ -46,11 +46,15 @@
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
 "wgcf_key":"7H43GE2b-Waq62u73-Ji15l93V",
+"wgcf_key2":"O5E90k6X-10wy8Y5U-3c7f9N5d",
 "wgcf_ipport":"188.114.99.70:7156",
 "wgcf_xray_url":"./xray.gz",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"",
 "wgcf_vless_optname":"cdn-all.xn--b6gac.eu.org",
 "wgcf_vless_worker":"",
-"wgcf_vless_path":"/?ed=2048"
+"wgcf_vless_path":"/?ed=2048",
+"wgcf_vless_protocol":"vless",
+"wgcf_vless_network":"ws",
+"wgcf_vless_tls":false
 }
