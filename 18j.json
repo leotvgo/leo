@@ -86,7 +86,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./lib/tokenm.json"
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json"
     },
     {
       "key": "csp_xBPQ_超清",
@@ -146,26 +146,148 @@
       "timeout": 60
     },
     {
-      "key": "量子",
-      "name": "量子",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "key": "PushShareHD",
+      "name": "🔞我的资源分享HD",
+      "type": 3,
+      "api": "csp_PushShare",
       "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.HD.txt$$$db$$$1"
     },
     {
-      "key": "非凡",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "key": "PushShare",
+      "name": "🔞我的资源分享a",
+      "type": 3,
+      "api": "csp_PushShare",
       "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.a.txt$$$db$$$1"
+    },
+    {
+      "key": "PushShareb",
+      "name": "🔞我的资源分享b",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.b.txt$$$db$$$1"
+    },
+    {
+      "key": "PushSharec",
+      "name": "🔞我的资源分享c",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.c.txt$$$db$$$1"
+    },
+    {
+      "key": "PushShared",
+      "name": "🔞我的资源分享d",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.d.txt$$$db$$$1"
+    },
+    {
+      "key": "PushSharee",
+      "name": "🔞我的资源分享e",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.e.txt$$$db$$$1"
+    },
+    {
+      "key": "PushSharef",
+      "name": "🔞我的资源分享f",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.f.txt$$$db$$$1"
+    },
+    {
+      "key": "PushShareg",
+      "name": "🔞我的资源分享g",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.g.txt$$$db$$$1"
+    },
+    {
+      "key": "PushShare1",
+      "name": "🔞我的资源分享1",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.1.txt$$$$$1"
+    },
+    {
+      "key": "PushShare2",
+      "name": "🔞我的资源分享2",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.2.txt$$$$$1"
+    },
+    {
+      "key": "PushShare3",
+      "name": "🔞我的资源分享3",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.3.txt$$$$$1"
+    },
+    {
+      "key": "PushShare4",
+      "name": "🔞我的资源分享4",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pushshare.4.txt$$$$$1"
     },
     {
       "key": "csp_Gxqvlj",
@@ -256,7 +378,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://akun.work.gd/upload/xBPQ/色花堂.json"
+      "ext": "http://akun.work.gd/upload/xBPQ/色花堂.json",
+      "jar": "http://akun.work.gd/upload/xBPQ/XBPQ.jar"
     },
     {
       "key": "csp_黄瓜TV",
@@ -315,8 +438,8 @@
         "分类": "国产精品&日韩亚洲&自拍偷拍&欧美精品&主播视频&中文字幕&日韩无码&动漫成人&推荐视频&同性人妖&巨乳颜射&口交自慰&制服淫穴&换脸AI区&三级综艺&重味3P&强奸乱伦&精品女优&人妻系列&极骚萝莉&HEYZO&独家诱惑&首次少女&高潮喷吹",
         "分类值": "1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13&17&18&19&20&21&22&23&24",
         "分类url": "https://6lhzry.com/vodtype/{cateId}-{catePg}.html"
-       },
-      "jar": "./pg.jar"
+      },
+      "jar": "http://akun.work.gd/upload/xBPQ/XBPQ.jar"
     },
     {
       "key": "Xojav",
@@ -374,7 +497,6 @@
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
-      "ext":"socks5://127.0.0.1:10072",
       "style": {
         "type": "rect",
         "ratio": 1.777
