@@ -815,6 +815,12 @@
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
+	                {
+				"name": "YTLive",
+				"type": 0,
+				"playerType": 1,
+				"url": "./lib/yo21.txt"
+			},
 			{
 				"name": "直播",
 				"type": 0,
