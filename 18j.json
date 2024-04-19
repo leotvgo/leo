@@ -134,6 +134,26 @@
         "ratio": 3.8
       }
     },
+    {"key":"xhamster",
+      "name":"xhamster",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext":{
+        "搜索链接":"https://zh.xhamster.com/4k/page/{pg}?cat&s={wd}",
+        "简介":"◎简*介</p>&&</p>",
+        "影片年代":"◎上映 日期&&<br>",
+        "影片地区":"◎产*地&&<br>",
+        "图片是否需要代理": "1",
+        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题":"磁力",
+        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "播放列表":"<p>&&</p>[包含:magnet]",
+        "播放链接":"*\">&&</a>",
+        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
+        "分类链接":"https://zh.xhamster.com/4k/{cateId}/page/{catePg}[https://zh.xhamster.com/4k/{cateId}]"
+      }
+    },
     {
       "key": "Taohuazu",
       "name": "🔞桃花族",
