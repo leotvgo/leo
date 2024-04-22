@@ -211,6 +211,16 @@
       "jar":"http://ythz.lyyytv.cn/uploads/tvbox/yt.jar",
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"},
     {
+      "key":"Wo4k",
+      "name":"LEO|玩偶磁力",
+      "type":3,
+      "api":"csp_Wo4k",
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":60, 
+      "ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"},
+    {
       "key":"88Pan",
       "name":"LEO｜88网盘",
       "type":3,
@@ -681,6 +691,16 @@
      "filterable":1, 
      "timeout":60, 
      "ext":"null$$$null$$$1"},
+    {
+     "key":"Gaoqing",
+     "name":"LEO|高清网盘",
+     "type":3,
+     "api":"csp_Gaoqing",
+     "quickSearch":1, 
+     "changeable":1, 
+     "filterable":1, 
+     "timeout":60, 
+     "ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
     {
       "key": "xyyy",
       "name": "LEO|音乐",
