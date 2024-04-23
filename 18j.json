@@ -217,8 +217,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
-      "timeout": 60,
-      "ext": "http://thzl.cc/forum.php"
+      "timeout": 60
     },
     {
       "key": "csp_Gxqvlj",
