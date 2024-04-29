@@ -217,7 +217,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
-      "timeout": 60
+      "timeout": 60,
+      "ext": "http://thzj.cc/forum.php"
     },
     {
       "key": "csp_Gxqvlj",
