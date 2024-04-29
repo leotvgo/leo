@@ -280,7 +280,6 @@
       "type": 3,
       "api": "csp_Doll",
       "searchable": 1,
-      "ext": "socks5://192.168.31.86:9978",
       "style": {
         "type": "rect",
         "ratio": 1.309
@@ -402,6 +401,7 @@
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
+      "ext": "socks5://192.168.31.86:9978",
       "style": {
         "type": "rect",
         "ratio": 1.777
