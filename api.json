@@ -139,6 +139,35 @@
 		}
    },
    {
+      "key":"BLSGod",
+      "name":"LEO|SGod磁",
+      "type":3,
+      "api":"csp_BLSGod",
+      "changeable":1, 
+      "timeout":60},
+   {
+      "key":"Xunlei8",
+      "name":"LEO|迅雷磁",
+      "type":3,
+      "api":"csp_Xunlei8",
+      "changeable":1, 
+      "timeout":60},
+   {
+      "key":"SeedHub",
+      "name":"LEO|Seed磁",
+      "type":3,
+      "api":"csp_SeedHub",
+      "changeable":1, "timeout":60},
+   {
+      "key": "新6V",
+      "name": "新6V|网盘",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"},
+   {
       "key":"️玩偶哥",
       "name":"LEO｜玩偶哥",
       "type":3,
