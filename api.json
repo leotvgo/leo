@@ -761,6 +761,7 @@
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,
+	"timeout":60,
 	"ext": {
 		"主页url": "https://m.haokongbu.top/",
 		"分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
