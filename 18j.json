@@ -280,11 +280,11 @@
       "type": 3,
       "api": "csp_Doll",
       "searchable": 1,
+      "ext": "$$$socks5://192.168.31.86:9978$$$1",
       "style": {
         "type": "rect",
         "ratio": 1.309
       }
-      "ext": "$$$socks5://192.168.31.86:9978$$$1"
     },
     {
       "key": "csp_黄瓜TV",
