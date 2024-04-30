@@ -255,7 +255,7 @@
       "type": 3,
       "api": "csp_Doll",
       "searchable": 1,
-      "ext":"127.0.0.1:2001",
+      "ext":"127.0.0.1:10072",
       "style": {
         "type": "rect",
         "ratio": 1.309
@@ -377,7 +377,7 @@
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
-      "ext":"127.0.0.1:2001",
+      "ext":"127.0.0.1:10073",
       "style": {
         "type": "rect",
         "ratio": 1.777
