@@ -342,12 +342,7 @@
       "name": "🔞18AV",
       "type": 3,
       "api": "csp_Eighteen",
-      "searchable": 1,
-      "jar": "./lib/XBPQ.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
+      "searchable": 1
     },
     {"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},
             "ext": {
