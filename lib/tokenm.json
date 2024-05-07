@@ -49,6 +49,7 @@
 "wgcf_key2":"77X+H1PbyxXkn67mc12ZvXEoSQxJvZb1Ni+6UnZ65Uw=",
 "wgcf_ipport":"188.114.99.70:7156",
 "wgcf_xray_url":"./xray.gz",
+"wgcf_geoip_url":"./geoip.dat.gz",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"de44b044-8f90-4e18-b742-16591667ff96",
 "wgcf_vless_optname":"edgetunnel-free.pages.dev:443",
