@@ -140,7 +140,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$http://127.0.0.1:10073" 
+			"ext":"0$$$http://127.0.0.1:2000" 
 		},
 		{
 			"key": "星星",
@@ -149,7 +149,7 @@
 			"api": "csp_Star",
 			"searchable": 1,
 			"changeable": 0,
-			"ext":"http://127.0.0.1:10072"
+			"ext":"http://127.0.0.1:2001"
 		},
 		{
 			"key": "獨播",
@@ -158,7 +158,7 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
-			"ext": "./lib/duboku.json$$$http://127.0.0.1:10071"
+			"ext": "./lib/duboku.json$$$http://127.0.0.1:2002"
 		},
    {
        "key": "酷看",
