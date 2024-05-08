@@ -115,7 +115,7 @@
 	"changeable":1,
 	"filterable":0,
 	"timeout":60,
-	"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
+	"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz$$$http://192.168.31.86:1082",
 		"style": {
 			"type": "list",
 			"ratio": 1.1
