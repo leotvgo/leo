@@ -142,16 +142,6 @@
 			"changeable": 0, 
 			"ext":"0$$$http://192.168.31.86:1082" 
 		},
-	 { 
-			"key": "泥巴2", 
-			"name": "泥巴 | 海外2", 
-			"type": 3, 
-			"api": "csp_NiNi", 
-			"searchable": 1, 
-			"filterable": 1, 
-			"changeable": 0, 
-			"ext":"0$$$192.168.31.86:1082" 
-		},
 		{
 			"key": "星星",
 			"name": "星星 | 海外",
