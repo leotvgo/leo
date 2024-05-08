@@ -132,6 +132,34 @@
 	"filterable":0, 
 	"timeout":60, 
 	"ext":"./lib/tokenm.json$$$./lib/sambashare.txt"},
+	 { 
+			"key": "泥巴", 
+			"name": "泥巴 | 海外", 
+			"type": 3, 
+			"api": "csp_NiNi", 
+			"searchable": 1, 
+			"filterable": 1, 
+			"changeable": 0, 
+			"ext":"0$$$127.0.0.1:10073" 
+		},
+		{
+			"key": "星星",
+			"name": "星星 | 海外",
+			"type": 3,
+			"api": "csp_Star",
+			"searchable": 1,
+			"changeable": 0,
+			"ext":"127.0.0.1:10072"
+		},
+		{
+			"key": "獨播",
+			"name": "獨播 | 海外",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": "./lib/duboku.json$$$127.0.0.1:10071"
+		},
    {
        "key": "酷看",
        "name": "LEO┃秒播",
