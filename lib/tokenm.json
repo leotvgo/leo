@@ -52,7 +52,7 @@
 "wgcf_geoip_url":"./geoip.dat.gz",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"8dc1abb3-8962-4f86-d36a-b88f7371bd49",
-"wgcf_vless_optname":"vpn.leo123.cn",
+"wgcf_vless_optname":"vpn.leo123.cn:10072",
 "wgcf_vless_worker":"vpn.leo123.cn",
 "wgcf_vless_path":"/?ed=2048",
 "wgcf_vless_protocol":"vless",
