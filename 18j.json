@@ -193,7 +193,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60, 
-      "ext": "http://192.168.31.86:1082$$$http://thzj.cc"
+      "ext": "http://thzj.cc$$$http://192.168.31.86:1082"
     },
     {
       "key": "csp_Gxqvlj",
