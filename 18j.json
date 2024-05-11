@@ -193,7 +193,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60, 
-      "ext":"./lib/tokenm.json$$$http://thzj.cc$$$proxy$$$1"
+      "ext":"./lib/tokenm.json$$$http://thzj.cc"
     },
     {
       "key": "csp_Gxqvlj",
