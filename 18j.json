@@ -188,12 +188,12 @@
       "name": "🔞桃花族",
       "type": 3,
       "api": "csp_Taohuazu",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
       "timeout": 60, 
-      "ext":"./lib/tokenm.json$$$http://thzf.cc/$$$192.168.31.86:1082$$$1"
+      "ext":"./lib/tokenm.json$$$http://thzf.cc$$$proxy"},
     },
     {
       "key": "csp_Gxqvlj",
@@ -486,6 +486,17 @@
       "changeable": 0,
       "ext":"http://192.168.31.86:1082"
     },
+   {
+      "key": "https://www.javbus.com",
+      "name": "🧲┃JavBus┃磁力",
+      "type": 3,
+      "api": "csp_JavBus",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://www.busdmm.art"
+    },
     {
       "key": "csp_JavDb",
       "name": "🔞🧲JavDb",
@@ -495,7 +506,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "timeout": 1801
+      "style":{ "type":"rect", "ratio":1.5 },
+      "ext": "https://javdb366.com/"
     },
     {
       "key": "Cable",
