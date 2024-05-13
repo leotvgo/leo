@@ -193,7 +193,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60, 
-      "ext":"./lib/tokenm.json$$$http://thzf.cc$$$proxy"
+      "ext":"http://thzf.cc"
     },
     {
       "key": "csp_Gxqvlj",
@@ -392,7 +392,7 @@
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
-      "ext":"./lib/tokenm.json$$$http://192.168.31.86:1082",
+      "ext":"http://192.168.31.86:1082",
       "style": {
         "type": "rect",
         "ratio": 1.777
@@ -484,7 +484,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext":"./lib/tokenm.json$$$http://192.168.31.86:1082"
+      "ext":"http://192.168.31.86:1082"
     },
    {
       "key": "https://www.javbus.com",
@@ -495,7 +495,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/tokenm.json$$$https://www.busdmm.art"
+      "ext": "https://www.busdmm.art"
     },
     {
       "key": "csp_JavDb",
@@ -507,7 +507,7 @@
       "filterable": 1,
       "changeable": 0,
       "style":{ "type":"rect", "ratio":1.5 },
-      "ext": "./lib/tokenm.json$$$https://javdb366.com/"
+      "ext": "https://javdb366.com"
     },
     {
       "key": "Cable",
@@ -531,7 +531,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pikpakclass.a.json$$$http://akun.work.gd/upload/lib/pikpakclass.a.json.txt.gz$$$http://192.168.31.86:1082"
+      "ext": "http://akun.work.gd/upload/lib/tokenm.json$$$http://akun.work.gd/upload/lib/pikpakclass.a.json$$$http://akun.work.gd/upload/lib/pikpakclass.a.json.txt.gz"
     },
     {
       "key": "PikPakShare",
