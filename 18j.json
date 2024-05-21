@@ -193,7 +193,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60, 
-      "ext":"http://thzf.cc"
+      "ext":"./lib/tokenm.json$$$null"
     },
     {
       "key": "csp_Gxqvlj",
