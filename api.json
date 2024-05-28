@@ -169,7 +169,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "changeable": 1,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296"
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716886207700/fan.txt;md5;f102160567e405c643a05358ec9d8f0c"
     },
     {
 	"key": "NanGua",
@@ -243,38 +243,24 @@
       "jar": "./spider.jar",
       "ext":"./json/wog.json"},
     {
-      "key":"️玩偶弟",
-      "name":"LEO｜玩偶多",
-      "type":3,
-      "api":"csp_XYQHikerAL",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar": "./spider.jar",
-      "ext":"./json/wod.json"},
-    {
-      "key":"️玩偶姐",
-      "name":"LEO｜玩偶姐",
-      "type":3,
-      "api":"csp_XYQHikerAL",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar": "./spider.jar",
-      "ext":"./json/woj.json"},
-    {
-      "key":"️玩偶妹",
-      "name":"LEO｜玩偶妹",
-      "type":3,
-      "api":"csp_XYQHikerAL",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar": "./spider.jar",
-      "ext":"./json/wom.json"},
+      "key": "玩偶多多",
+      "name": "LEO｜玩偶多",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "site": "https://tv.yydsys.top",
+                "danmu": true
+            },
+       "jar": "./danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+    },
     {
       "key":"️玩偶歌",
-      "name":"LEO｜玩偶OU",
+      "name":"LEO｜玩偶欧",
       "type":3,
       "api":"csp_XYQHikerAL",
       "searchable":1,
@@ -283,16 +269,37 @@
       "jar": "./spider.jar",
       "ext":"./json/wou.json"},
     {
-          "key":"玩偶弹幕",
-	  "name":"LEO｜玩偶DM",
-	  "type":3,
-	  "api":"csp_Wogg",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-		  "site":"https://www.wogg.net","danmu":true},
-	  "jar":"./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+      "key":"玩偶弹幕",
+      "name":"LEO｜玩偶DM",
+      "type":3,
+      "api":"csp_Wogg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "site": "https://www.wogg.net",
+                "danmu": true
+            },
+      "jar": "./danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+    },
+    {
+      "key": "玩偶哥备",
+      "name": "LEO｜玩偶备",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "site": "https://www.wogg.link",
+                "danmu": true
+            },
+       "jar": "./danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+    },
     {
       "key":"csp_appys_影盒",
       "name":"LEO｜影探主",
