@@ -232,42 +232,6 @@
       "filterable":1, 
       "timeout":120,
       "ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
-   {
-      "key":"️玩偶哥",
-      "name":"LEO｜玩偶哥",
-      "type":3,
-      "api":"csp_XYQHikerAL",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar": "./spider.jar",
-      "ext":"./json/wog.json"},
-    {
-      "key": "玩偶多多",
-      "name": "LEO｜玩偶多",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://tv.yydsys.top",
-                "danmu": true
-            },
-       "jar": "./danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
-    },
-    {
-      "key":"️玩偶歌",
-      "name":"LEO｜玩偶欧",
-      "type":3,
-      "api":"csp_XYQHikerAL",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar": "./spider.jar",
-      "ext":"./json/wou.json"},
     {
       "key":"玩偶弹幕",
       "name":"LEO｜玩偶DM",
@@ -288,7 +252,7 @@
       "key": "玩偶哥备",
       "name": "LEO｜玩偶备",
       "type": 3,
-      "api": "csp_Wobg",
+      "api": "csp_Wogg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -296,6 +260,22 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "site": "https://www.wogg.link",
+                "danmu": true
+            },
+       "jar": "./danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+    },
+   {
+      "key": "玩偶多多",
+      "name": "LEO｜玩偶多",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "site": "https://tv.yydsys.top",
                 "danmu": true
             },
        "jar": "./danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
