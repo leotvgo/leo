@@ -193,7 +193,7 @@
       "changeable":1, 
       "filterable":0, 
       "timeout":60, 
-      "ext":"./lib/tokenm.json$$$http://777630.xyz/$$$http://192.168.31.218:1082",
+      "ext":"./lib/tokenm.json$$$http://777630.xyz/$$$",
                         "style": {
                                 "type": "list",
                                 "ratio": 1.1
