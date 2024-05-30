@@ -140,7 +140,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$http://192.168.31.86:1082" 
+			"ext":"0$$$http://192.168.31.218:1082" 
 		},
 		{
 			"key": "星星",
@@ -149,7 +149,7 @@
 			"api": "csp_Star",
 			"searchable": 1,
 			"changeable": 0,
-			"ext":"http://192.168.31.86:1082"
+			"ext":"http://192.168.31.218:1082"
 		},
 		{
 			"key": "獨播",
@@ -158,7 +158,7 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
-			"ext": "./lib/duboku.json$$$http://192.168.31.86:1082"
+			"ext": "./lib/duboku.json$$$http://192.168.31.218:1082"
 		},
    {
        "key": "酷看",
@@ -1019,6 +1019,18 @@
 				"type": 0,
 				"playerType": 1,
 				"url": "./lib/yo21.txt"
+			},
+	                {
+				"name": "Youtube",
+				"type": 0,
+				"playerType": 1,
+				"url": "./lib/aa.txt"
+			},
+	               {
+				"name": "Youtube2",
+				"type": 0,
+				"playerType": 1,
+				"url": "http://192.168.31.218:1082/p/0/proxy/https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/lib/aa.txt"
 			},
 			{
 				"name": "直播",
