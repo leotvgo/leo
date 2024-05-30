@@ -192,8 +192,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
-      "timeout": 60, 
-      "ext":"./lib/tokenm.json$$$null"
+      "timeout": 60
     },
     {
       "key": "csp_Gxqvlj",
