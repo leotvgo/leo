@@ -1,2 +1,2 @@
 自建youtube,#genre#
-youtube6，https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=vDbpNGXDhTs&ab_channel=8KVideoULTRAHD&type=mpd
+youtube6，https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=vDbpNGXDhTs&ab_channel=8KVideoULTRAHD
