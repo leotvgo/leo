@@ -1026,12 +1026,6 @@
 				"playerType": 1,
 				"url": "./lib/aa.txt"
 			},
-	               {
-				"name": "Youtube1",
-				"type": 0,
-				"playerType": 1,
-				"url": "http://192.168.31.218:1082/p/0/proxy/https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/lib/aa.txt"
-			},
 			{
 				"name": "直播",
 				"type": 0,
