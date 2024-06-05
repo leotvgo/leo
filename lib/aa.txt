@@ -1,7 +1,2 @@
 12K 60FPS DOLBY VISION,#genre#
-CALMEST DOLBY ATMOS - 12K HDR 60 FPS With Dolby Vision,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=1t9ysmraIMc
-BEST OF DOLBY ATMOS  Dolby Vision HDR 12K 60 FPS Video,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=YF9tL6lGZ8M
-ALASKA - 12K Scenic Relaxation Film With Inspiring Cinematic Music - 12K (60fps) Video Ultra HD,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=nFkFRZ1va90
-SCOTLAND - 12K Scenic Relaxation Film With Inspiring Cinematic Music - 12K (60fps) Video Ultra HD,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=dK1wXQogTUU
-自建youtube,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=coUY1kd8xFk&ab_channel=12KVIDEOULTRAHD&type=mpd
 自建youtube,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=coUY1kd8xFk&ab_channel=12KVIDEOULTRAHD
