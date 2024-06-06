@@ -1026,6 +1026,12 @@
 				"playerType": 1,
 				"url": "./lib/aa.json"
 			},
+	                {
+				"name": "leo自建json",
+				"type": 0,
+				"playerType": 1,
+				"url": "./lib/leiou.json"
+			},
 			{
 				"name": "直播",
 				"type": 0,
