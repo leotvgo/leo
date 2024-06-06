@@ -35,5 +35,22 @@ CCTV中文国际,https://youtube.leo123.cn/live?url=https://www.youtube.com/watc
 Asher1,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=-4jN9eeSq0M&ab_channel=Asherw&type=mpd
 Asher2,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=7H-kzTEfjSg&t=327s&ab_channel=Asherw&type=mpd
 Asher3,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=KXa4rBz1NyM&ab_channel=Asherw&type=mpd
+madou1,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=V59MguPCo8Y&ab_channel=YvanCreates
+madou2,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=tZXHeunI1_g&ab_channel=YvanCreates
+madou3,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=LG7q1wIRWH8&ab_channel=YvanCreates
 
-
+Laura,#genre#
+Laura,https://www.youtube.com/watch?v=_JttdqS6QXU&ab_channel=LauraContreras&type=mpd
+Laura1,https://www.youtube.com/watch?v=SGTpfXujFEM&ab_channel=LauraContreras&type=mpd
+Laura2,https://www.youtube.com/watch?v=khvI4sYa0OM&ab_channel=LauraContreras&type=mpd
+Laura3,https://www.youtube.com/watch?v=1WxZRXvPh8U&ab_channel=LauraContreras&type=mpd
+Laura4,https://www.youtube.com/watch?v=GcGcoJhoN_4&ab_channel=LauraContreras&type=mpd
+Laura5,https://www.youtube.com/watch?v=OBq87gBSBC8&ab_channel=LauraContreras&type=mpd
+Laura6,https://www.youtube.com/watch?v=z3u_4tvOOWM&ab_channel=LauraContreras&type=mpd
+Laura7,https://www.youtube.com/watch?v=hY2dprctibo&t=12s&ab_channel=LauraContreras&type=mpd
+Laura8,https://www.youtube.com/watch?v=4XLxEGDtS1o&ab_channel=LauraContreras&type=mpd
+Laura9,https://www.youtube.com/watch?v=JpMmMAiA1sg&ab_channel=LauraContreras&type=mpd
+Laura10,https://www.youtube.com/watch?v=xcUVoTNc2ro&ab_channel=LauraContreras&type=mpd
+dj,#genre#
+dj1,https://www.youtube.com/watch?v=S0MPAc7CzmU&ab_channel=InfinityVideoHUB&type=mpd
+dj2,https://www.youtube.com/watch?v=DhGIwC1bY-g&ab_channel=VDJSmileHD&type=mpd
