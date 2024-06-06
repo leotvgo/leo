@@ -37,10 +37,13 @@
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
    {
-      "key":"Local",
-      "name":"LEO｜本地",
-      "type":3,
-      "api":"csp_Local"},
+	"key": "直播转点播",
+	"name": "Youtube",
+	"type": 3,
+	"searchable": 0,
+	"api": "./lib/live2vod.js",
+	"ext": "./lib/leou.txt"
+    },
     {
       "key":"PushShare",
       "name":"LEO｜资源分享",
