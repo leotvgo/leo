@@ -28,4 +28,11 @@ ANN News,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=coYw
 CCTV中文国际,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=9sE12tg3CmA
 东森财经股市,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=LbS-xQ67fos
 东京新宿,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=DjdUEyjx8GM
+模特,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=DR4xvG7aaHA&ab_channel=MomentoTempus
+壁炉,https://youtube.leo123.cn/live?url=hhttps://www.youtube.com/watch?v=mKCieTImjvU&ab_channel=FOBOSPLANET
+幽静雨夜,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=0qMrodhYDY4&ab_channel=CozyJazzRoom
+Asher1,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=-4jN9eeSq0M&ab_channel=Asher
+Asher2,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=7H-kzTEfjSg&t=327s&ab_channel=Asher
+Asher3,https://youtube.leo123.cn/live?url=https://www.youtube.com/watch?v=KXa4rBz1NyM&ab_channel=Asher
+
 
