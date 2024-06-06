@@ -36,13 +36,22 @@
       "jar": "./Token.jar",
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
-   {
-	"key": "直播转点播",
-	"name": "Youtube",
-	"type": 3,
-	"searchable": 0,
-	"api": "./lib/live2vod.js",
-	"ext": "./lib/feimaolive.json"
+    {
+	"key":"Youtube",
+	"name":"Youtube",
+	"type":3,
+	"api": "csp_Youtube",
+	"searchable": 1,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext":{
+		"type":"8K#4K#HDR#movie#music#documentary",
+		"proxy":"192.168.31.142:1082"
+	},
+	"style": {
+		"type": "rect",
+		"ratio": 1.5
+	}
     },
     {
       "key":"PushShare",
