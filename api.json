@@ -46,7 +46,7 @@
 	"changeable": 0,
 	"ext":{
 		"type":"热点#新闻#电影#剧集#音乐#体育#课程8K#4K#HDR#movie#music",
-		"proxy":""
+		"proxy":"192.168.31.218:1082"
 	},
 	"style": {
 		"type": "rect",
