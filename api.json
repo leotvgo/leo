@@ -42,7 +42,7 @@
 	"type": 3,
 	"searchable": 0,
 	"api": "./lib/live2vod.js",
-	"ext": "./lib/feimaolive.json"
+	"ext": "./lib/leou.txt"
     },
     {
       "key":"PushShare",
