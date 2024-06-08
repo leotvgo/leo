@@ -47,7 +47,7 @@
 	"ext":{
 		"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary",
 		"proxy":"192.168.31.218:1082",
-		"codecs":"H264"
+		"codecs":"AV"
 	},
 	"style": {
 		"type": "rect",
