@@ -155,7 +155,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$http://192.168.31.218:1082" 
+			"ext":"0$$$proxy" 
 		},
 		{
 			"key": "星星",
@@ -164,7 +164,7 @@
 			"api": "csp_Star",
 			"searchable": 1,
 			"changeable": 0,
-			"ext":"http://192.168.31.218:1082"
+			"ext":"proxy"
 		},
 		{
 			"key": "獨播",
@@ -173,7 +173,7 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
-			"ext": "./lib/duboku.json$$$http://192.168.31.218:1082"
+			"ext": "./lib/duboku.json$$$proxy"
 		},
    {
        "key": "酷看",
