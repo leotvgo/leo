@@ -2,7 +2,7 @@
     "recommend":"LIST:最新|推荐,官方频道,GETTRENDS",
 	"class":[
 		{
-			"type_id":"LIST:/频道/,李子柒 Liziqi @cnliziqi,Aqua Deep @AquaDeep-wc1gp,VDJ Smile HD @vdjsmilehd,Asher @AsherMusicOfficial,Laura Contreras @LauraContreras,老高与小茉 @laogao,李永乐老师 @TchLiyongle,滇西小哥 @dianxixiaoge,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,老肉杂谈 @老肉杂谈,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小颖美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大学 Airforceproud95 @Airforceproud95,世界大战 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z,家电维修@",
+			"type_id":"LIST:/频道/,李子柒 Liziqi @cnliziqi,Aqua Deep @AquaDeep-wc1gp,VDJ Smile HD @vdjsmilehd,Asher @AsherMusicOfficial,Laura Contreras @LauraContreras,Summer Music Deep @summerdeep68,Yvan Creates @yvancreates,老高与小茉 @laogao,李永乐老师 @TchLiyongle,滇西小哥 @dianxixiaoge,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,老肉杂谈 @老肉杂谈,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小颖美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大学 Airforceproud95 @Airforceproud95,世界大战 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z,家电维修@",
 			"type_name":"YouTube(频道)"
 		},
 		{
@@ -10,12 +10,12 @@
 			"type_name":"时下流行"
 		},
 		{
-			"type_id":"Full YouTube 动画片",
-			"type_name":"动画片"
-		},
-		{
 			"type_id":"YouTube 新闻 Live",
 			"type_name":"新闻直播"
+		},
+		{
+			"type_id":"YouTube 音乐 music Live",
+			"type_name":"音乐live"
 		},
 		{
 			"type_id":"Full YouTube 电影",
@@ -64,10 +64,14 @@
 		{
 		    "type_id":"CCTV中国中央电视台",
 		    "type_name":"🇨🇳CCTV"
+		},
+		{
+			"type_id":"Full YouTube 动画片",
+			"type_name":"动画片"
 		}
 	],
 	"filters":{
-	    "LIST:Full YouTube,李子柒 Liziqi @cnliziqi,Aqua Deep @AquaDeep-wc1gp,VDJ Smile HD @vdjsmilehd,Asher @AsherMusicOfficial,Laura Contreras @LauraContreras,老高与小茉 @laogao,李永乐老师 @TchLiyongle,滇西小哥 @dianxixiaoge,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,老肉杂谈 @老肉杂谈,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小颖美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大学 Airforceproud95 @Airforceproud95,世界大战 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z":[
+	    "LIST:Full YouTube,李子柒 Liziqi @cnliziqi,Aqua Deep @AquaDeep-wc1gp,VDJ Smile HD @vdjsmilehd,Asher @AsherMusicOfficial,Laura Contreras @LauraContreras,Summer Music Deep @summerdeep68,Yvan Creates @yvancreates,老高与小茉 @laogao,李永乐老师 @TchLiyongle,滇西小哥 @dianxixiaoge,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,老肉杂谈 @老肉杂谈,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小颖美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大学 Airforceproud95 @Airforceproud95,世界大战 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z":[
 	        {
 				"key":"time",
 				"name":"时间",
