@@ -248,6 +248,24 @@
       "filterable":1, 
       "timeout":120,
       "ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
+   {
+      "key": "Wexhuaruitv",
+      "name": "LEO｜花蕊4K",
+      "type": 3,
+      "api": "csp_Wexhuaruitv",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718895465471/wex.txt;md5;abd7de963094093f674c391183001b3a"
+    },
+    {
+      "key": "Wexjiazitv",
+      "name": "LEO｜甲子4K",
+      "type": 3,
+      "api": "csp_Wexjiazitv",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718895465471/wex.txt;md5;abd7de963094093f674c391183001b3a"
+    },
     {
       "key":"玩偶弹幕",
       "name":"LEO｜玩偶DM",
