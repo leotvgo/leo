@@ -14,10 +14,6 @@
 			"type_name":"新闻直播"
 		},
 		{
-			"type_id":"YouTube 音乐 music Live",
-			"type_name":"音乐live"
-		},
-		{
 			"type_id":"Full YouTube 电影",
 			"type_name":"电影"
 		},
