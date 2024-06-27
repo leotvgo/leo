@@ -89,6 +89,124 @@
       "ext": "http://akun.work.gd/upload/lib/tokenm.json"
     },
     {
+      "key":"csp_JavDb",
+      "name":"🧲JavDb",
+      "type":3,
+      "api":"csp_JavDb",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+            "changeable":1, 
+      "timeout":60,
+      "style":{ "type":"rect", "ratio":1.33 },
+      "ext":"./lib/tokenm.json$$$null$$$proxy"
+    },
+    {"key":"SeHuaTang","name":"色花堂|磁力","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$http://hsck484.cc/$$$proxy",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+    {"key":"Top888","name":"Top888","type":3,"api":"csp_Top888","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"$$$proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+    {"key":"Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://netflav5.com$$$proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Doll",
+      "searchable": 1,
+      "timeout":60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.309
+      },
+      "ext": "proxy"
+    },
+    {
+      "key": "18AV",
+      "name": "18AV",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "searchable": 1,
+      
+      "timeout":60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "ext": "proxy"
+    },
+    {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+      
+      "timeout":60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      },
+      "ext": "proxy"
+    },
+    {
+      "key": "MissAV",
+      "name": "MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+      
+      "timeout":60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.777
+      },
+      "ext": "proxy"
+    },
+    {
+      "key": "Hanime",
+      "name": "Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1,
+      
+      "timeout":60,
+      "style": {
+        "type": "rect",
+        "ratio": 0.68
+      },
+      "ext": "proxy"
+    },
+    {"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+    {
       "key": "csp_xBPQ_超清",
       "name": "🔞香蕉超清",
       "type": 3,
@@ -133,43 +251,6 @@
         "type": "rect",
         "ratio": 3.8
       }
-    },
-   {
-      "key": "测试1",
-      "name": "xhamster1",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "站名": "xhamster",
-        "主页url": "https://zh.xhamster.com",
-        "数组": "<div class=\"img-box cover-md\">&&</h6>",
-        "图片": "data-original=\"&&\"",
-        "标题": "<h6 class=\"title\">&&</a>",
-        "链接": "href=\"&&\"",
-        "副标题": "<div class=\"ribbon-top-left\">&&</span>",
-        "线路数组": "<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
-        "线路标题": ">&&</a>",
-        "搜索url": "https://zh.xhamster.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "搜索模式": "1",
-        "搜索副标题": "<span class=\"score\">&&</span>",
-        "搜索后缀": "/vodplay/",
-        "播放数组": "class=\"item line\">&&</div>",
-        "影片类型": "<p class=\"sub-title\">&&</p>",
-        "导演": "class=\"data\">类型：&&</p>",
-        "主演": "class=\"data\">主演：&&</p>",
-        "简介": "<div class=\"header-left\">&&</div>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "播放链接前缀": "https://zh.xhamster.com",
-        "分类": "最新视频&最佳视频&4K色情",
-        "分类值": "newest&best&4k",
-        "分类url": "https://zh.xhamster.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
-      },
-      "jar": "./lib/XBPQ.jar"
     },
     { 
      "key": "XVDiZhi.com",
