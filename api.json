@@ -191,14 +191,47 @@
 		},
    {
        "key": "酷看",
-       "name": "LEO┃秒播",
+       "name": "LEO｜秒播",
        "type": 3,
        "api": "csp_Kkys",
        "timeout": 15,
        "searchable": 1,
        "quickSearch": 1,
        "changeable": 1,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716886207700/fan.txt;md5;f102160567e405c643a05358ec9d8f0c"
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
+    },
+    {
+       "key": "Zx4k",
+       "name": "LEO｜专线",
+       "type": 3,
+       "api": "csp_Zx4k",
+       "timeout": 15,
+       "playerType": 2,
+       "searchable": 1,
+       "quickSearch": 1,
+       "changeable": 1,
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
+    },
+    {
+       "key": "文采",
+       "name": "LEO｜文采",
+       "type": 3,
+       "api": "csp_Jpys",
+       "playerType": 2,
+       "searchable": 1,
+       "quickSearch": 1,
+       "changeable": 1,
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
+    },
+    {
+       "key": "比特",
+       "name": "LEO｜比特",
+       "type": 3,
+       "api": "csp_Bttwoo",
+       "searchable": 1,
+       "quickSearch": 1,
+       "changeable": 1,
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
     },
     {
 	"key": "NanGua",
@@ -268,7 +301,7 @@
       "api": "csp_Wexhuaruitv",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718895465471/wex.txt;md5;abd7de963094093f674c391183001b3a"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719585978165/wex.txt;md5;bddf772185748da4ce3f57fa889e3c96"
     },
     {
       "key": "Wexjiazitv",
@@ -277,7 +310,7 @@
       "api": "csp_Wexjiazitv",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718895465471/wex.txt;md5;abd7de963094093f674c391183001b3a"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719585978165/wex.txt;md5;bddf772185748da4ce3f57fa889e3c96"
     },
     {
       "key":"玩偶弹幕",
