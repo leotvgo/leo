@@ -191,15 +191,6 @@
 		},
     {   "key":"欧乐影院","name":"LEO|欧乐","type":3,"api":"csp_Olevod", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$null$$$noproxy$$$1"},
     {
-        "key": "酷看影视",
-        "name": "LEO｜酷看",
-        "type": 3,
-        "api": "csp_Wexkukantv",
-        "searchable": 1,
-        "changeable": 1,
-	"jar": "./spider.jar;md5;fcc4f15b9364f03772301b23033d0812"
-    },
-    {
         "key": "酷看弹幕",
         "name": "LEO｜酷看DM",
         "type": 3,
@@ -211,33 +202,6 @@
                 "danmu": true
             },
             "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
-    },
-    {
-        "key": "文才影视",
-        "name": "LEO｜文才",
-        "type": 3,
-        "api": "csp_Wexwencai",
-        "searchable": 1,
-        "changeable": 1,
-	"jar": "./spider.jar;md5;fcc4f15b9364f03772301b23033d0812"
-    },
-    {
-        "key": "花蕊影视",
-        "name": "LEO｜花蕊",
-        "type": 3,
-        "api": "csp_Wexhuaruitv",
-        "searchable": 1,
-        "changeable": 1,
-	"jar": "./spider.jar;md5;fcc4f15b9364f03772301b23033d0812"
-    },
-    {
-        "key": "甲子影视",
-        "name": "LEO｜甲子",
-        "type": 3,
-        "api": "csp_Wexjiazitv",
-        "searchable": 1,
-        "changeable": 1,
-	"jar": "./spider.jar;md5;fcc4f15b9364f03772301b23033d0812"
     },
     {
 	"key": "NanGua",
