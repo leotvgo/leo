@@ -189,6 +189,7 @@
 			"changeable": 0,
 			"ext": "./lib/duboku.json$$$proxy"
 		},
+    {"key":"欧乐影院","name":"LEO|欧乐","type":3,"api":"csp_Olevod", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$null$$$noproxy$$$1"},
     {
 	"key": "NanGua",
 	"name": "LEO|南瓜",
