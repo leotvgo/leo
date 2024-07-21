@@ -2,7 +2,7 @@
   "drives": [
     {
       "name": "alist.jar",
-      "search": true,
+      "search": false,
       "searchable": true,
       "hidden": false,
       "server": "http://192.168.31.66:5244"
