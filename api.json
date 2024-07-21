@@ -964,7 +964,7 @@
       "name":"LEO|Alist",
       "type":3,
       "api":"csp_AList",
-      "searchable":0,
+      "searchable":1,
       "filterable":1,
       "changeable":1,
       "ext":"./js/alistjar.json"},
