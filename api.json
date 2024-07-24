@@ -969,16 +969,6 @@
       "changeable":1,
       "ext":"./js/alistjar.json"},
    {
-      "key":"AList1",
-      "name":"LEO|Alist2",
-      "type":3,
-      "api":"csp_AList",
-      "searchable":1,
-      "filterable":1,
-      "changeable":1,
-      "jar": "./kaixin.jar",
-      "ext":"./js/alistjar.json"},
-   {
       "key": "网盘集合",
       "name": "网盘集合|4K",
       "type": 3,
