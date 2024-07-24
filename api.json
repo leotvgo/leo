@@ -978,6 +978,20 @@
       "changeable":1,
       "jar": "./kaixin.jar",
       "ext":"./js/alistjar.json"},
+   {
+      "key": "网盘集合",
+      "name": "网盘集合|4K",
+      "type": 3,
+      "api": "csp_网盘集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "jar": "./kaixin.jar",
+      "ext": {
+             "commonConfig": "./json/peizhi.json",
+             "share": "./json/网盘集合.json"
+            }
+    },
     {
       "key":"LEO",
       "name":"关注雷欧API",
