@@ -1,9 +1,10 @@
 {
-  "aliToken": "./token",
-  "quarkCookie": "",
-  "ucCookie": "",
+  "aliToken": "http://127.0.0.1:9978/file/TVBox/token.txt",
+  "quarkCookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+  "ucCookie": "http://127.0.0.1:9978/file/tvfan/Cloud-drive.txt",
   "115Cookie": "",
   "pwdRb115": "",
   "goServerUrl": "http://127.0.0.1:9966",
   "ydAuth": ""
 }
+
