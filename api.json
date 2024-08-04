@@ -194,6 +194,28 @@
 			"changeable": 0,
 			"ext": "./lib/duboku.json$$$noproxy"
 		},
+	 {
+            "key": "JS",
+            "name": "LEO┃4K影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/4KAV.js"
+        },
+        {
+            "key": "07104K-剧院",
+            "name": "LEO┃zw4K影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/4K剧院.js"
+        },
 {"key":"TGYunPan","name":"LEO┃TG搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,oneonefivewpfx,Aliyundrive_Share_Channel,ucwangpan$$$noproxy$$$1"},
 {"key":"玩偶","name":"LEO┃F玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"playerType": 2,"changeable":0,"jar": "./fty.jar;md5;71d846866f2ceb9666ba114e5963983f", "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 {"key":"酷看","name":"💡LEO┃K秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"jar": "./fty.jar;md5;71d846866f2ceb9666ba114e5963983f","changeable":0},
