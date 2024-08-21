@@ -36,6 +36,7 @@
       "ext": {
         "commonConfig": "./peizhi.json"
       }
+      },
     {
       "key": "csp_KungFu404",
       "name": "LEO云盘登录",
