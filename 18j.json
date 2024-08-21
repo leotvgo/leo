@@ -88,6 +88,69 @@
       "changeable": 0,
       "ext": "http://akun.work.gd/upload/lib/tokenm.json"
     },
+	  {
+            "key": "Jablexbpq",
+            "name": "💗┃💋JableTV┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://jable.tv/",
+                "数组": "class=\"col-6 col-sm-4 col-lg-3\">&&class=\"sub-title\">&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "class=\"title\">*>&&</a",
+                "链接": "href=\"&&\"",
+                "分类二次截取": "class=\"app-nav\">&&</nav>",
+                "分类数组": "<a&&</a[不包含:按#優先]",
+                "分类标题": ">&&</a",
+                "分类ID": "href=\"https://jable.tv/&&/\"",
+                "分类url": "https://jable.tv/{cateId}/{catePg}/;;z"
+            }
+        },{
+    "key": "csp_Doll",
+    "name": "Doll",
+    "type": 3,
+    "api": "csp_Doll",
+    "jar": "https://t4.doube.eu.org/spider.jar;md5;3f392906996ac13aaeb8c91956f95f7fl",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "csp_Eighteen",
+    "name": "Eighteen",
+    "type": 3,
+    "api": "csp_Eighteen",
+    "jar": "https://t4.doube.eu.org/spider.jar;md5;3f392906996ac13aaeb8c91956f95f7fl",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "csp_Miss",
+    "name": "Miss",
+    "type": 3,
+    "api": "csp_Miss",
+    "jar": "https://t4.doube.eu.org/spider.jar;md5;3f392906996ac13aaeb8c91956f95f7fl",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+	  {
+            "key": "农夫与少妇",
+            "name": "农夫与少妇",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/农夫与少妇.json"
+        },
     {
       "key":"csp_JavDb",
       "name":"🧲JavDb",
