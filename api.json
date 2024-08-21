@@ -26,18 +26,6 @@
 	"ext":"./lib/tokenm.json"
     },
     {
-      "key": "ConfigCenter",
-      "name": "真心配置",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "jar": "./zhenxin.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json"
-      }
-      },
-    {
       "key": "csp_KungFu404",
       "name": "LEO云盘登录",
       "type": 3,
@@ -197,77 +185,7 @@
 	"filterable":0, 
 	"timeout":60, 
 	"ext":"./lib/tokenm.json$$$./lib/sambashare.txt"},
-     {
-      "key": "TgYunPanLocal1",
-      "name": "TG搜索1",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "jar": "./zhenxin.jar",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "yunpanshare",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "TgYunPanLocal2",
-      "name": "TG搜索2",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "jar": "./zhenxin.jar",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "shareAliyun",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "TgYunPanLocal3",
-      "name": "TG搜索3",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "jar": "./zhenxin.jar",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "kuakeyun",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "TgYunPanLocal4",
-      "name": "TG搜索4",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "jar": "./zhenxin.jar",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "qixingzhenren",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "TgYunPanLocal5",
-      "name": "TG搜索5",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "jar": "./zhenxin.jar",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "guaguale115",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-{"key":"TGYunPan","name":"LEO┃TG搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Mbox115,oneonefivewpfx,Aliyundrive_Share_Channel,ucwangpan$$$noproxy$$$1"},
+{"key":"TGYunPan","name":"LEO┃TG搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$https://t.me/$$$hao115,Mbox115,oneonefivewpfx,Aliyundrive_Share_Channel,ucwangpan$$$noproxy$$$1"},
 {"key":"玩偶","name":"LEO┃F玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"playerType": 2,"changeable":0,"jar": "./fty.jar;md5;71d846866f2ceb9666ba114e5963983f", "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 {"key":"酷看","name":"💡LEO┃K秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"jar": "./fty.jar;md5;71d846866f2ceb9666ba114e5963983f","changeable":0},
 {"key":"Zx4k","name":"LEO┃Z秒播","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "./fty.jar;md5;71d846866f2ceb9666ba114e5963983f"},
