@@ -185,7 +185,7 @@
 	"filterable":0, 
 	"timeout":60, 
 	"ext":"./lib/tokenm.json$$$./lib/sambashare.txt"},
-{"key":"TGYunPan","name":"LEO┃TG搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$http://129.153.102.140:9999/$$$hao115,Mbox115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$null$$$1"},
+{"key":"TGYunPan","name":"LEO┃TG搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$https://t.me/$$$hao115,Mbox115,guaguale115,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,$$$null$$$1"},
 {"key":"玩偶","name":"LEO┃F玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"playerType": 2,"changeable":0,"jar": "./fty.jar;md5;71d846866f2ceb9666ba114e5963983f", "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 {"key":"酷看","name":"💡LEO┃K秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"jar": "./fty.jar;md5;71d846866f2ceb9666ba114e5963983f","changeable":0},
 {"key":"Zx4k","name":"LEO┃Z秒播","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "./fty.jar;md5;71d846866f2ceb9666ba114e5963983f"},
