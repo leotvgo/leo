@@ -247,6 +247,17 @@
       "filterable":1, 
       "timeout":60, 
       "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"},
+   {
+      "key": "小米网盘",
+      "name": "LEO|小米",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://mihdr.top/$$$null$$$1$$$./lib/wogg.json$$$XIAOMI"
+    },
     {
         "key":"团长资源",
         "name":"LEO|团长",
