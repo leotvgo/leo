@@ -246,7 +246,7 @@
       "changeable":1, 
       "filterable":1, 
       "timeout":60, 
-      "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"},
+      "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
    {
       "key": "小米网盘",
       "name": "LEO|小米",
@@ -267,7 +267,7 @@
 	"filterable": 0,
 	"changeable": 1, 
 	"timeout":60, 
-	"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$null$$$1$$$./lib/wogg.json$$$TUDOU"},
+	"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wogg.json$$$TUDOU"},
     {
         "key":"团长资源",
         "name":"LEO|团长",
