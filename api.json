@@ -161,7 +161,7 @@
 	"filterable":0, 
 	"timeout":60, 
 	"ext":"./lib/tokenm.json$$$./lib/sambashare.txt"},
-{"key":"TGYunPan","name":"LEO┃TG全局","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://127.0.0.1:9999/$$$hao115,Mbox115,oneonefivewpfx,guaguale115,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$null$$$1"},
+{"key":"TGYunPan","name":"LEO┃TG全局","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://127.0.0.1:9999/$$$hao115,Mbox115,oneonefivewpfx,shareAliyun_Group,aliyundriveShare,guaguale115,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$null$$$1"},
 {"key":"TGYunPanLocal","name":"LEO┃TG本地","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"},
 {"key":"蜡笔网盘","name":"LEO┃蜡笔","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$null$$$1$$$./lib/wogg.json"},
     {
