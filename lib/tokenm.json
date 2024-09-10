@@ -23,7 +23,7 @@
 "thunder_is_vip":false,
 "thunder_vip_thread_limit":2,
 "thunder_flags":"4k|4kz|auto",
-"aliproxy":"http://192.168.31.66.7890",
+"aliproxy":"http://192.168.31.66:7890",
 "aliproxy_url":"",
 "proxy":"",
 "danmu":true,
