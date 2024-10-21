@@ -571,7 +571,57 @@
       "filterable":1}
  ],
   "lives":[
-	                {
+	               {
+				"name": "leoTV直播",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "leoTV本地路由",
+				"type": 0,
+				"url": "http://192.168.31.66:35455/tv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "leoTPTV",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tptv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "leobili",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/bililive.m3u?url=http://127.0.0.1:35455",
+				"ua": "okhttp/3.15"
+			},
+			{
+				"name": "leoYY",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/yylunbo.m3u?url=http://127.0.0.1:35455",
+				"ua": "okhttp/3.15"
+			},
+			{
+				"name": "leo斗鱼",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/douyuyqk.m3u?url=http://127.0.0.1:35455",
+				"ua": "okhttp/3.15"
+			},
+			{
+				"name": "leo广东联通",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/gdcucc.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+	               {
 				"name": "live.ipv6",
 				"type": 0,
 				"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
@@ -663,16 +713,6 @@
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
-	                {
-				"name":"🔴全球直播",
-				"url":"http://oy.oyxx-1.eu.org/整理直播.php",
-				"epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-				"logo":"http://epg.112114.eu.org/logo/{name}.png"},
-	                {
-				"name":"🔞全球直播",
-				"url":"http://oy.oyxx-1.eu.org/hhbb.php",
-				"epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-				"logo":"http://epg.112114.eu.org/logo/{name}.png"},
 			{
 				"group":"redirect",
 				"channels":[
